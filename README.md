@@ -1,0 +1,1 @@
+Este desafio foi proposto como exercício obrigatório para conclusão do curso da Alura G9.
